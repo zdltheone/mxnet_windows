@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\git_zdl\mxnet\mxnet\CMakeLists.txt" />
+    <CustomBuild Include="E:\git_zdl\mxnet\mxnet\windows\CMakeFiles\599ad29b13b146d02a2db09bca1f233b\mxnet_lint.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\git_zdl\mxnet\mxnet\windows\CMakeFiles\mxnet_lint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CDE4B443-48D2-3ADB-81AF-0A87CFD89686}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

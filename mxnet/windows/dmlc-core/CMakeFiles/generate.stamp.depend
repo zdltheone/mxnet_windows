@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+E:/git_zdl/mxnet/mxnet/dmlc-core/CMakeLists.txt
+E:/git_zdl/mxnet/mxnet/dmlc-core/cmake/Utils.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/FindPythonInterp.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/FindPackageMessage.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/FindPythonInterp.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/FindPackageMessage.cmake
+D:/program/cmake-3.5.2-win32-x86/share/cmake-3.5/Modules/CMakeParseArguments.cmake
